@@ -1,0 +1,51 @@
+header {
+	background-color: white;
+	height: 56px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	z-index: 100;
+	
+}
+
+li {
+	display: inline-block;
+	margin-right: 35px;
+}
+
+
+}
+nav {
+	margin-left: 137px;
+	margin-top: 21px;
+	vertical-align: middle;
+	
+
+}
+
+li a {
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	font-size: 15px;
+	
+}
+ul{
+	
+	transform: translate(0%, -25%);
+}
+a img{
+	display: inline-block;
+	vertical-align: middle;
+}
+.sec{
+	margin-top: 76px;
+}
+h1{
+	width: 1466px;
+	margin: 0 auto;
+	
+	color: black;
+	font-family: 'Roboto', sans-serif;
+	font-size: 30px;
+
+}
