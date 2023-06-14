@@ -1,5 +1,9 @@
+body{
+	background-color: #F5F5F5;
+}
+
 header {
-	background-color: white;
+	background-color: #F5F5F5;
 	padding: 20px;
 	width: 100%;
 	position: fixed;
@@ -42,6 +46,7 @@ a img{
 .sec{
 	margin-top: 76px;
 }
+
 h1{
 	width: 1466px;
 	margin: 0 auto;
@@ -50,4 +55,65 @@ h1{
 	font-family: 'Roboto', sans-serif;
 	font-size: 30px;
 
+}
+
+.cardPlace{
+	width: 1466px;
+	margin: 0 auto;
+}
+
+.card{
+	width: 362px;
+	height: 357px;
+	display: inline-block;
+	position: relative;
+	background-color: white;
+	border-radius: 5px;
+}
+
+.mrgn{
+	margin-right: 140px;
+}
+
+.sec2{
+	margin-top: 28px;
+}
+
+h2 {
+    font-size: 20px;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    position: absolute;
+    top: 32px;
+    left: 41px;
+
+}
+
+.smallTxt{
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: 700;
+	font-size: 10px;
+	line-height: 12px;
+
+	color: #8A8787;
+	
+}
+
+.clock{
+	position: absolute;
+	bottom: 36px;
+	left: 40px;
+}
+.pozi1{
+	position: absolute;
+	bottom: 63px;
+	left: 37px;
+}
+
+.pozi2{
+	position: absolute;
+	bottom: 37px;
+	left: 67px;
 }
